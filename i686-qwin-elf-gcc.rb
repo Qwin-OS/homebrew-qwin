@@ -38,3 +38,5 @@ class I686QwinElfGcc < Formula
       FileUtils.rm_rf share/"man"/"man7"
     end
   end
+
+end
